@@ -6,7 +6,7 @@ import Logo from '../assets/images/Logo.png';
 
 function Navbar() {
   return (
-    <Stack direction="row">
+    <Stack direction="row" m="10px">
       <Link to="/">
         <img src={Logo} alt="logo" style={{
           width: '48px', 
