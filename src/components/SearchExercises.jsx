@@ -4,7 +4,7 @@ import { React, useState, useEffect } from 'react'
 import { fetchData, exerciseOptions } from '../utils/fetchData'
 import HorizontalScrollBar from './HorizontalScrollBar'
 
-function SearchExercises(bodyPart, setBodyPart, setExercises) {
+function SearchExercises({bodyPart, setBodyPart, setExercises}) {
   const [search, setSearch] = useState('')
   const [bodyParts, setBodyParts] = useState([])
 
