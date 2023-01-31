@@ -1,5 +1,4 @@
-import { Box, Button, Chip, Stack, TextField, Typography } from '@mui/material'
-import { spacing } from '@mui/system'
+import { Box, Button, Stack, TextField, Typography } from '@mui/material'
 import { React, useState, useEffect } from 'react'
 import { fetchData, exerciseOptions } from '../utils/fetchData'
 import HorizontalScrollBar from './HorizontalScrollBar'
