@@ -7,8 +7,8 @@ A fully responsive EXAMPLE Project written in React which dinamicaly displays da
 This project is currently in development. Users can search exercises by name, gym equipment and keyword and see a visual data representation in the form of a GIF. After clicking on one of the GIFs the user is redirected to a details page about the coresponding exercise. Functionality to sort by additional parameters is in progress.
 
 ## Project Screen Shots
-![MainPage](src/assets/images/MainPage.jpeg)
-![MainPage](src/assets/images/exercises.jpeg)
+![Main Page](src/assets/images/MainPage.jpeg)
+![Exercises Page](src/assets/images/exercises.jpg)
 
 ## Getting Started
 
