@@ -8,7 +8,7 @@ This project is currently in development. Users can search exercises by name, gy
 
 ## Project Screen Shots
 ![Main Page](src/assets/images/MainPage.jpeg)
-![Exercises Page](src/assets/images/exercises.jpg)
+![Exercises Page](src/assets/images/exercises.JPG)
 
 ## Getting Started
 
